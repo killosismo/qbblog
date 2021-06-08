@@ -6,7 +6,7 @@ const Home = () => {
     error,
     isPending,
     data: posts,
-  } = useFetch("http://localhost:8000/posts");
+  } = useFetch("https://qbblog.herokuapp.com/posts");
 
   return (
     <div className="home">
