@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Create from "./Create";
 import PostDetails from "./PostDetails";
 
+
 function App() {
   return (
     <Router>
