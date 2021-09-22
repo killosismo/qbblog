@@ -1,28 +1,451 @@
 {
-  "posts": [
+  "playlists": [
     {
-      "title": "Opening Party!",
-      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-      "author": "yoshi",
-      "id": 2
+      "embed_url": "https://www.dailymotion.com/embed/video/x847xde",
+      "title": "Falcón: La droga y los políticos",
+      "id": "x847xde",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TGKYo1XGrpgRwKM_Z/x180",
+      "description": ""
     },
     {
-      "title": "ergdfg",
-      "body": "dfgdf",
-      "author": "mario",
-      "id": 4
+      "embed_url": "https://www.dailymotion.com/embed/video/x83yarp",
+      "title": "Los atracos, la otra pandemia",
+      "id": "x83yarp",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TEcu51XD6yDj0FjFp/x180",
+      "description": "Los atracos no son nada nuevo en República Dominicana. “Los intentos” que han hecho los gobiernos para acabar con este flagelo durante las últimas décadas  se han quedado en papel, y los actos de delincuencia no dejan de decir presente. <br /> <br />Actualmente, una ola está azotando diferentes sectores del país. La gente no puede escuchar ni el ruido de un motor a lo lejos, porque de inmediato le llega el temor del atraco."
     },
     {
-      "title": "ergdfg",
-      "body": "dfgdf",
-      "author": "mario",
-      "id": 5
+      "embed_url": "https://www.dailymotion.com/embed/video/x83ob4l",
+      "title": "¿Qué es ´´blindar´´ la Constitución?",
+      "id": "x83ob4l",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TCr5L1X9ILTErHd2I/x180",
+      "description": ""
     },
     {
-      "title": "srgfsg",
-      "body": "sagasdg",
-      "author": "mario",
-      "id": 6
+      "embed_url": "https://www.dailymotion.com/embed/video/x83djc2",
+      "title": "El PRM y su primer año de Gobierno y Congreso",
+      "id": "x83djc2",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TAwOY1X5kHDEYRpS5/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82zfj1",
+      "title": "La basura se come a Santo Domingo Este… ¡y Manuel Jiménez!",
+      "id": "x82zfj1",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T8PjT1X05XWCZhqGK/x180",
+      "description": "https://listindiario.com/elfarol?utm_source=direct&utm_medium=cpc&utm_campaign=boton_elfarol&utm_term=elfarol&utm_content=boton_elfarol"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82pnc6",
+      "title": "Jean Alain y los plátanos que cuestan 18 meses",
+      "id": "x82pnc6",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T6gHc1WyGd-dhaadV/x180",
+      "description": "Más noticias en https://listindiario.com/<br /><br />Suscríbete al canal  https://bit.ly/335qMys<br /><br />Síguenos<br />Twitter  https://twitter.com/ListinDiario <br /><br />Facebook  https://www.facebook.com/listindiario <br /><br />Instagram https://www.instagram.com/listindiario/"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82hsi4",
+      "title": "El Jeanalato",
+      "id": "x82hsi4",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T5GoC1WxegI3uN9Fg/x180",
+      "description": "Más noticias en https://listindiario.com/<br /><br />Suscríbete al canal  https://bit.ly/335qMys<br /><br />Síguenos<br />Twitter  https://twitter.com/ListinDiario <br /><br />Facebook  https://www.facebook.com/listindiario <br /><br />Instagram https://www.instagram.com/listindiario/<br />"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82fjal",
+      "title": "La acusación contra Jean Alain y su grupo",
+      "id": "x82fjal",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/T4t5j1WvWY-QV4Hfh/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82cvlj",
+      "title": "Jean Alain, apresado por \"la medusa\"",
+      "id": "x82cvlj",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T4Opt1Wt898ys6Zr-/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81yk0i",
+      "title": "A Luis Dicent le cantaron Bingo",
+      "id": "x81yk0i",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/T1rhI1WxoKaU4Y9R-/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81y8aq",
+      "title": "¡El Farol Soberano! Y los nominados y premiados son...",
+      "id": "x81y8aq",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T1n-21Wo0Be9clQG9/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81sx7n",
+      "title": "Los Rosario, estafados",
+      "id": "x81sx7n",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T0rWZ1WxSMAp243JT/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81l8m5",
+      "title": "Teteo y Detone en los vuelvos, Teleférico y Lotería",
+      "id": "x81l8m5",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/S_T_T1WnwIipp2Z-Y/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81h5mi",
+      "title": "#ElFarol: Miguel Gutiérrez y la narco política",
+      "id": "x81h5mi",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/S-lUw1Wg_uA6Gp_8E/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0m",
+      "title": "La República de la Corrupción Lotería, Portuaria, JCE, Quédate en Casa...",
+      "id": "x81ct0m",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzxc1WlZKDQ9QKKw/x180",
+      "description": "La República de la Corrupción Lotería, Portuaria, JCE, Quédate en Casa..."
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0d",
+      "title": "Girón cantó y puso a bailar a Adán Cáceres, a la pastora y a Núñez de Aza",
+      "id": "x81ct0d",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/SzzxT1Wf2V0QcGw5y/x180",
+      "description": "Girón cantó y puso a bailar a Adán Cáceres, a la pastora y a Núñez de Aza"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81csse",
+      "title": "Adán Cáceres, ¿de qué acusan al mayor general?",
+      "id": "x81csse",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szzs-1Wi6NLFIO_fT/x180",
+      "description": "Adán Cáceres, ¿de qué acusan al mayor general?"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssk",
+      "title": "El general Adán Cáceres y su presunta red",
+      "id": "x81cssk",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzt41WqoL21MSrmL/x180",
+      "description": "El general Adán Cáceres y su presunta red"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ctjw",
+      "title": "Los alcaldes cumplen su primer año... ¡Y se los celebramos!",
+      "id": "x81ctjw",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Sz-6S1WfIyKs7DK1P/x180",
+      "description": "Los alcaldes cumplen su primer año... ¡Y se los celebramos!"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7e",
+      "title": "Los contratos con los que engañaron a RD",
+      "id": "x81ct7e",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szz_Q1Wf33Roed208/x180",
+      "description": "Los contratos con los que engañaron a RD"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0k",
+      "title": "La Policía, la reforma y el error de  la mano dura",
+      "id": "x81ct0k",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzxa1WqoQoiTOxoA/x180",
+      "description": "La Policía, la reforma y el error de  la mano dura"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7i",
+      "title": "Los senadores trabajan muy poco",
+      "id": "x81ct7i",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szz_U1Ww7G6XW0j1H/x180",
+      "description": "Los senadores trabajan muy poco"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7f",
+      "title": "Los diputados que no trabajan   Conozca a sus diputados   Parte 2",
+      "id": "x81ct7f",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szz_R1Wf4rr6Mxl9E/x180",
+      "description": "Los diputados que no trabajan   Conozca a sus diputados   Parte 2"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssh",
+      "title": "Conozca a sus diputados   Parte 1",
+      "id": "x81cssh",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzt11Ww6-QqB98vM/x180",
+      "description": "Conozca a sus diputados   Parte 1"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssd",
+      "title": "“El Cambio”  en el PLD",
+      "id": "x81cssd",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzsz1X0UCyYO0Mep/x180",
+      "description": "“El Cambio”  en el PLD"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7c",
+      "title": "Los  secretos  de nuestros senadores",
+      "id": "x81ct7c",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szz_O1Wf6tvBbYHoi/x180",
+      "description": "Los  secretos  de nuestros senadores"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7d",
+      "title": "Los combustibles, el PRM y la fórmula...",
+      "id": "x81ct7d",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szz_P1Wf2tNOxIdtd/x180",
+      "description": "Los combustibles, el PRM y la fórmula..."
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7h",
+      "title": "Los partidos y su danza de millones de pesos",
+      "id": "x81ct7h",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szz_T1Wtk_KKN5aO-/x180",
+      "description": "Los partidos y su danza de millones de pesos"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0q",
+      "title": "Las letricas pequeñas del contrato con AstraZeneca",
+      "id": "x81ct0q",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzxg1WqoL7xJIa0q/x180",
+      "description": "Las letricas pequeñas del contrato con AstraZeneca"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7b",
+      "title": "Llegó Argenis Contreras y esto es lo que debes saber",
+      "id": "x81ct7b",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szz_N1Wf4yVkgBlBn/x180",
+      "description": "Llegó Argenis Contreras y esto es lo que debes saber"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7a",
+      "title": "Las letricas pequeñas del contrato con Pfizer",
+      "id": "x81ct7a",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szz_M1Wf4rdJyx3Mo/x180",
+      "description": "Las letricas pequeñas del contrato con Pfizer"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0b",
+      "title": "El problema de los hoteles y el turismo",
+      "id": "x81ct0b",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SzzxR1Wf2cG2Wwmd7/x180",
+      "description": "El problema de los hoteles y el turismo"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssb",
+      "title": "¡Esta es la razón de su infuncionalidad!",
+      "id": "x81cssb",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szzsx1Wf47RQ4Ao04/x180",
+      "description": "El Farol<br />¡Esta es la razón de su infuncionalidad!"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssc",
+      "title": "¿Y si le ponemos atención a esto?",
+      "id": "x81cssc",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzsy1Wf33RcB3I3p/x180",
+      "description": "¿Y si le ponemos atención a esto?"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0f",
+      "title": "Jaime Marte Martínez y los 100 vehículos",
+      "id": "x81ct0f",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SzzxV1Wf5TV-9ccsh/x180",
+      "description": "Jaime Marte Martínez y los 100 vehículos"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0o",
+      "title": "Las cosas más insólitas del 2020",
+      "id": "x81ct0o",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzxe1WhggKQbbg8Y/x180",
+      "description": "Las cosas más insólitas del 2020"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7j",
+      "title": "Navidad y toque de queda",
+      "id": "x81ct7j",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szz_V1WhDkHddAGJa/x180",
+      "description": "Navidad y toque de queda"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssl",
+      "title": "El pago  irregular  a los artistas",
+      "id": "x81cssl",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szzt51W-R0UAUQ4jG/x180",
+      "description": "El pago  irregular  a los artistas"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssj",
+      "title": "El barrilito, con guitarra y con violín",
+      "id": "x81cssj",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szzt31Wf6cY0V6KYK/x180",
+      "description": "El barrilito, con guitarra y con violín"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0h",
+      "title": "Juventud, la  sal  de los Ministerios",
+      "id": "x81ct0h",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SzzxX1Wf4eDPLB6WU/x180",
+      "description": "Juventud, la  sal  de los Ministerios"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct7l",
+      "title": "Odebrecht o Antipulpo, ¿cuál operación violó más derechos y normas?",
+      "id": "x81ct7l",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Szz_X1Whgy0Rb2Ubt/x180",
+      "description": "Odebrecht o Antipulpo, ¿cuál operación violó más derechos y normas?"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssg",
+      "title": "Berlinesa vs. Yokasta, el lío del Inaipi",
+      "id": "x81cssg",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzt01WhAV_mLrTuk/x180",
+      "description": "Berlinesa vs. Yokasta, el lío del Inaipi"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81cssf",
+      "title": "Alexis Medina, el origen de su sobrenombre",
+      "id": "x81cssf",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/Szzs_1Wf2Wz4BZzbP/x180",
+      "description": "Alexis Medina, el origen de su sobrenombre"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ctdd",
+      "title": "Otros nombres que  suenan  en la Operación Antipulpo",
+      "id": "x81ctdd",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/Sz-2n1Wf2jlczz15v/x180",
+      "description": "Otros nombres que  suenan  en la Operación Antipulpo"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0j",
+      "title": "La Operación Anti Pulpo por la que apresaron a 10 exfuncionarios en RD",
+      "id": "x81ct0j",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SzzxZ1WtqQ8tyCafU/x180",
+      "description": "La Operación Anti Pulpo por la que apresaron a 10 exfuncionarios en RD"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81ct0c",
+      "title": "Freddy Hidalgo, señalado pero... ¿por que?",
+      "id": "x81ct0c",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SzzxS1Wf2UxePrQ8k/x180",
+      "description": "Freddy Hidalgo, señalado pero... ¿por que?"
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x80phat",
+      "title": "Contratos y engaños",
+      "id": "x80phat",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/SvqFL1WtmvTG_fH9C/x180",
+      "description": ""
+    }
+  ],
+  "playlists2": [
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83w26e",
+      "title": "El caso David Ortiz, dos años después",
+      "id": "x83w26e",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TEDO61XBwedPGaYwU/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83w26f",
+      "title": "República Dominicana baila entre Estados Unidos y China",
+      "id": "x83w26f",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TEDO71XBvZVSsUl4V/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83w1l0",
+      "title": "¿Quién es quién en la denuncia “Pulpo Eléctrico”?",
+      "id": "x83w1l0",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TEDC41XBwLFw6K38K/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83v5at",
+      "title": "Rosalba Ramos choca con la Procuraduría, ¿qué pasa_",
+      "id": "x83v5at",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TE2-L1XBaF8gAeNz0/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83v510",
+      "title": "Maximiliano Gómez \"El Moreno\", a 50 años de su desaparición",
+      "id": "x83v510",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TE2uq1XBwr4XH8DSG/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83u8o8",
+      "title": "Desaparecidos sin respuesta",
+      "id": "x83u8o8",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TDufe1XBGJlhtJmUv/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82smd0",
+      "title": "Versiones Sobre el magnicidio de Jovenel Moise",
+      "id": "x82smd0",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/T7C8q1WzqLkY9MB6h/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x82h7ps",
+      "title": "¿Quién es quién en el caso Operación Medusa?",
+      "id": "x82h7ps",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/T5ADG1WxegI4sctDH/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x834u9r",
+      "title": "Puntos claves del Caso Odebrecht",
+      "id": "x834u9r",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/T9NK_1X2SrCuMKCCx/x180",
+      "description": "En cuatro años, un tema se ha mantenido presente en los tribunales dominicanos y aun no termina: Se trata de Odebrecht. Aquí te contamos algunos puntos claves durante todo el desarrollo del caso.<br /><br />Más noticias en https://listindiario.com/<br /><br />Suscríbete al canal  https://bit.ly/335qMys<br /><br />Síguenos<br />Twitter  https://twitter.com/ListinDiario <br /><br />Facebook  https://www.facebook.com/listindiario <br /><br />Instagram https://www.instagram.com/listindiario/"
+    }
+  ],
+  "playlists3": [
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x8483je",
+      "title": "8 Curiosidades sobre el fraude de la Lotería Nacional",
+      "id": "x8483je",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TGMVg1XGrO_7ssbmh/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83v5v2",
+      "title": "¡Celebramos 132 años y así va nuestra historia!",
+      "id": "x83v5v2",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TE39k1XBanLb7fMe7/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83rdzz",
+      "title": "Los legisladores reciben dinero para Madres, Reyes, Navidad... hasta por respirar",
+      "id": "x83rdzz",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TDOAV1XB5v5ZgoDwv/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83jovk",
+      "title": "8 curiosidades de la agenda de Abinader en su primer año",
+      "id": "x83jovk",
+      "thumbnail_180_url": "https://s2.dmcdn.net/v/TC0Um1X8ItfKJm_FG/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x83dgz0",
+      "title": "8 curiosidades que ha traído el cambio de gobierno",
+      "id": "x83dgz0",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/TAvei1X5idgtukSXV/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81p65e",
+      "title": "Conozca 8 particularidades de las nuevas restricciones que inician hoy",
+      "id": "x81p65e",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/T0AnY1X31QxEzpEZG/x180",
+      "description": ""
+    },
+    {
+      "embed_url": "https://www.dailymotion.com/embed/video/x81m2up",
+      "title": "8 curiosidades sobre la muerte de Trujillo",
+      "id": "x81m2up",
+      "thumbnail_180_url": "https://s1.dmcdn.net/v/S_dZn1WiqF_SOEn0O/x180",
+      "description": ""
     }
   ]
 }
+
+
